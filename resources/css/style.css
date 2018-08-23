@@ -71,3 +71,38 @@ header{
   flex-direction: column;
   padding: 5px;
 }
+
+.Locations{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+  display: flex;
+  width: 1200px;
+  height: 500px;
+  flex-direction: column;
+  text-align: center;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.addresses{
+  display: flex;
+  background-color: transparent;
+}
+
+.location-title{
+  background-color: transparent;
+}
+
+.downtown{
+  height: 300px;
+  width: 300px;
+}
+
+.east-bay{
+  height: 300px;
+  width: 300px;
+}
+
+.oakdale{
+  height: 300px;
+  width: 300px;
+}
